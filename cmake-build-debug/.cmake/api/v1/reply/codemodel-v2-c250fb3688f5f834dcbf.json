@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/timof/CLionProjects/SO2/cmake-build-debug",
-		"source" : "C:/Users/timof/CLionProjects/SO2"
+		"build" : "C:/Users/Filip/CLionProjects/SO2/cmake-build-debug",
+		"source" : "C:/Users/Filip/CLionProjects/SO2"
 	},
 	"version" : 
 	{
